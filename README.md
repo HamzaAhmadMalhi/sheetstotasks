@@ -1,4 +1,4 @@
-# sheetstotasks
+# Bulk Google Task Upload
 Transfer Google sheets to Google tasks in bulk.
 Link- https://docs.google.com/spreadsheets/d/1QmVulqVtvbFpQA1UrI6f8dV2q1xZi5gk3Plnw_0eC5o/edit?usp=sharing
 
