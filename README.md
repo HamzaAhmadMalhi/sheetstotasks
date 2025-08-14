@@ -8,8 +8,10 @@ Please Go to file > Make a copy
 Date      | Assignments
 DD/MM/YY    Task name
 
-## App Scripts
+## Tasks API
+Enable the google task api here: https://console.cloud.google.com/apis/library/tasks.googleapis.com
 
+## App Scripts
 ### code.gs
 Change with the sheetname and the tasklist name you want to view in google tasks
 line 6 and 7 of the code.gs
